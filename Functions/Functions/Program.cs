@@ -1,7 +1,14 @@
-﻿namespace Functions
+﻿using System.Globalization;
+
+namespace Functions
 {
     internal class Program
     {
+
+        string[] vragen = new string[]
+        {
+            "Do ya like jazz??", "Do ya not like jazz??"
+        };
         static void Main(string[] args)
         {
            Program program = new Program();
@@ -12,12 +19,24 @@
         internal void Run()
         {
             Console.WriteLine("Dit is nu de start van mijn programma");
-            Vraag1();
-            Vraag2();
-            Vraag3();
-            Vraag4();
-            Vraag5();
-            Vraag6();
+            //Vraag1();
+            //Vraag2();
+            //Vraag3();
+            //Vraag4();
+            //Vraag5();
+            //Vraag6();
+            Vraag7();
+            string vraag0 = GetVraag(GetRandomVraag());
+        }
+
+        internal int GetRandomVraag()
+        {
+            Random random = new Random();
+            return random.Next(0, 1);
+        }
+        internal string     (int vraagIndex)
+        {
+            return vragen[vraagIndex];
         }
         internal void Vraag1()
         {
@@ -60,6 +79,14 @@
             string antwoord = Console.ReadLine();
 
             Console.WriteLine("yeyeye bye now");
+        }
+        internal string Vraag7()
+        {
+            Console.WriteLine("nah holdon type soemthing in rq");
+            string antwoord = Console.ReadLine();
+
+            Console.WriteLine("alr thx");
+            return antwoord;
         }
     }
 }
