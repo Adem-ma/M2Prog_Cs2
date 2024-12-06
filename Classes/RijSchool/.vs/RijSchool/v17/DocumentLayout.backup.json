@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D4ECBB66-9BE5-4388-8910-94A55D3985D7}|RijSchool\\RijSchool.csproj|c:\\users\\maham\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog_cs2\\classes\\rijschool\\rijschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4ECBB66-9BE5-4388-8910-94A55D3985D7}|RijSchool\\RijSchool.csproj|solutionrelative:rijschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ECBB66-9BE5-4388-8910-94A55D3985D7}|RijSchool\\RijSchool.csproj|c:\\users\\maham\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog_cs2\\classes\\rijschool\\rijschool\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4ECBB66-9BE5-4388-8910-94A55D3985D7}|RijSchool\\RijSchool.csproj|solutionrelative:rijschool\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ECBB66-9BE5-4388-8910-94A55D3985D7}|RijSchool\\RijSchool.csproj|c:\\users\\maham\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog_cs2\\classes\\rijschool\\rijschool\\rijschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4ECBB66-9BE5-4388-8910-94A55D3985D7}|RijSchool\\RijSchool.csproj|solutionrelative:rijschool\\rijschool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\Student.cs",
+              "RelativeDocumentMoniker": "RijSchool\\Student.cs",
+              "ToolTip": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\Student.cs*",
+              "RelativeToolTip": "RijSchool\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:42:38.74Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\Program.cs",
               "RelativeDocumentMoniker": "RijSchool\\Program.cs",
-              "ToolTip": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\Program.cs",
-              "RelativeToolTip": "RijSchool\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\Program.cs*",
+              "RelativeToolTip": "RijSchool\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwEwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:42:25.847Z",
+              "WhenOpened": "2024-12-06T12:25:08.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RijSchool",
+              "DocumentMoniker": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\RijSchool.csproj",
+              "RelativeDocumentMoniker": "RijSchool\\RijSchool.csproj",
+              "ToolTip": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\Classes\\RijSchool\\RijSchool\\RijSchool.csproj",
+              "RelativeToolTip": "RijSchool\\RijSchool.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T12:22:09.775Z",
               "EditorCaption": ""
             }
           ]
