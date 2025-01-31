@@ -11,9 +11,9 @@ namespace Constructors
         internal QuizVraag vraag;
         internal bool goed;
 
-        internal QuizVraagAntwoord()
+        internal QuizVraagAntwoord(QuizVraag vraag)
         {
-            vraag = vraag;
+            this.vraag = vraag;
             goed = false;
         }
     }

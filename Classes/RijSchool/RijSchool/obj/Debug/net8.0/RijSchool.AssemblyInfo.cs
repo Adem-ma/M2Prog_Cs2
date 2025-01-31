@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RijSchool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+098a1121d083f9bf96c8fb440760303af2e5100e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b60ece15b5b5c8e7bfcc17a899b3b31208797ad2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RijSchool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RijSchool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

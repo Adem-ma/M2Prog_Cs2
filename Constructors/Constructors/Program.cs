@@ -9,8 +9,10 @@
         }
         private void Run()
         {
-            QuizVraag quizVraag = new QuizVraag("wa 9 plu 10", "21?");
-            Quiz quiz = new Quiz(10);
+            //QuizVraag quizVraag = new QuizVraag("wa 9 plu 10", "21?");
+            //Quiz quiz = new Quiz(10);
+
+            Quiz.VoegVraagToeOpIndex(0, QuizVraag);
         }
     }
 }

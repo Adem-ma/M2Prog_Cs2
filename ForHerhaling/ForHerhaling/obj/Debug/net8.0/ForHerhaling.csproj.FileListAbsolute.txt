@@ -1,0 +1,5 @@
+C:\Users\MAHam\Documents\ma\bewijzenmap\periode 1.2\Prog\M2Prog_Cs2\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHam\Documents\ma\bewijzenmap\periode 1.2\Prog\M2Prog_Cs2\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.AssemblyInfoInputs.cache
+C:\Users\MAHam\Documents\ma\bewijzenmap\periode 1.2\Prog\M2Prog_Cs2\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.AssemblyInfo.cs
+C:\Users\MAHam\Documents\ma\bewijzenmap\periode 1.2\Prog\M2Prog_Cs2\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.csproj.CoreCompileInputs.cache
+C:\Users\MAHam\Documents\ma\bewijzenmap\periode 1.2\Prog\M2Prog_Cs2\ForHerhaling\ForHerhaling\obj\Debug\net8.0\ForHerhaling.sourcelink.json

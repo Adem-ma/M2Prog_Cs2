@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\ForHerhaling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{459ABEA1-25B3-4D1A-BA69-758CEFEFE810}|ForHerhaling\\ForHerhaling.csproj|c:\\users\\maham\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog_cs2\\forherhaling\\forherhaling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459ABEA1-25B3-4D1A-BA69-758CEFEFE810}|ForHerhaling\\ForHerhaling.csproj|solutionrelative:forherhaling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459ABEA1-25B3-4D1A-BA69-758CEFEFE810}|ForHerhaling\\ForHerhaling.csproj|c:\\users\\maham\\documents\\ma\\bewijzenmap\\periode 1.2\\prog\\m2prog_cs2\\forherhaling\\forherhaling\\formulier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459ABEA1-25B3-4D1A-BA69-758CEFEFE810}|ForHerhaling\\ForHerhaling.csproj|solutionrelative:forherhaling\\formulier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formulier.cs",
+              "DocumentMoniker": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\ForHerhaling\\ForHerhaling\\Formulier.cs",
+              "RelativeDocumentMoniker": "ForHerhaling\\Formulier.cs",
+              "ToolTip": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\ForHerhaling\\ForHerhaling\\Formulier.cs*",
+              "RelativeToolTip": "ForHerhaling\\Formulier.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:38:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\ForHerhaling\\ForHerhaling\\Program.cs",
+              "RelativeDocumentMoniker": "ForHerhaling\\Program.cs",
+              "ToolTip": "C:\\Users\\MAHam\\Documents\\ma\\bewijzenmap\\periode 1.2\\Prog\\M2Prog_Cs2\\ForHerhaling\\ForHerhaling\\Program.cs*",
+              "RelativeToolTip": "ForHerhaling\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:25:30.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
